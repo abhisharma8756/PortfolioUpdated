@@ -4,11 +4,11 @@ import work_2 from "../../assets/work_2.png";
 import work3 from "../../assets/work3.png";
 import work_3 from "../../assets/work_3.png";
 import work4 from "../../assets/work4.png";
-import work5 (1) from "../../assets/work5 (1).png";
-import work5 (2) from "../../assets/work5 (2).png";
-import work5 (3) from "../../assets/work5 (3).png";
-import work5 (4) from "../../assets/work5 (4).png";
-import work5 (5) from "../../assets/work5 (5).png";
+import work5_1 from "../../assets/work5_1.png";
+import work5_2 from "../../assets/work5_2.png";
+import work5_3 from "../../assets/work5_3.png";
+import work5_4 from "../../assets/work5_4.png";
+import work5_5 from "../../assets/work5_5.png";
 
 
 export const projectsData = [
@@ -56,35 +56,35 @@ export const projectsData = [
   },
   {
     id: 7,
-    image: work5 (1),
+    image: work5_1,
     title: "IMDB",
     category: "imovie",
     link: "https://imovie2.netlify.app/",
   },
   {
     id: 8,
-    image: work5 (2),
+    image: work5_2,
     title: "IMDB",
     category: "imovie",
     link: "https://imovie2.netlify.app/",
   },
   {
     id: 9,
-    image: work5 (3),
+    image: work5_3,
     title: "IMDB",
     category: "imovie",
     link: "https://imovie2.netlify.app/",
   },
   {
     id: 10,
-    image: work5 (4),
+    image: work5_4,
     title: "IMDB",
     category: "imovie",
     link: "https://imovie2.netlify.app/",
   },
   {
     id: 11,
-    image: work5 (5),
+    image: work5_5,
     title: "IMDB",
     category: "imovie",
     link: "https://imovie2.netlify.app/",
