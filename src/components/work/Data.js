@@ -48,6 +48,13 @@ export const projectsData = [
     category: "portfolio",
     link: "",
   },
+  {
+    id: 7,
+    image: work5,
+    title: "IMDB",
+    category: "imovie",
+    link: "https://imovie2.netlify.app/",
+  },
 ];
 
 export const projectsNav = [
@@ -62,5 +69,8 @@ export const projectsNav = [
   },
   {
     name: "bbdms",
+  },
+  {
+    name: "IMDB",
   },
 ];
