@@ -8,7 +8,7 @@ const Data = () => {
   return (
     <div className='home__data'>
       <h1 className='home__title'>
-        Jian Hai Aap
+        Abhishek
         <svg
                   width="36"
                   height="36"
