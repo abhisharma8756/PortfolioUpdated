@@ -6,9 +6,7 @@ import work_3 from "../../assets/work_3.png";
 import work4 from "../../assets/work4.png";
 import work5_1 from "../../assets/work5_1.png";
 import work5_2 from "../../assets/work5_2.png";
-import work5_3 from "../../assets/work5_3.png";
-import work5_4 from "../../assets/work5_4.png";
-import work5_5 from "../../assets/work5_5.png";
+
 
 
 export const projectsData = [
@@ -58,37 +56,24 @@ export const projectsData = [
     id: 7,
     image: work5_1,
     title: "IMDB",
-    category: "imovie",
+    category: "IMDB",
     link: "https://imovie2.netlify.app/",
   },
   {
     id: 8,
     image: work5_2,
     title: "IMDB",
-    category: "imovie",
+    category: "IMDB",
     link: "https://imovie2.netlify.app/",
   },
   {
     id: 9,
     image: work5_3,
     title: "IMDB",
-    category: "imovie",
+    category: "IMDB",
     link: "https://imovie2.netlify.app/",
   },
-  {
-    id: 10,
-    image: work5_4,
-    title: "IMDB",
-    category: "imovie",
-    link: "https://imovie2.netlify.app/",
-  },
-  {
-    id: 11,
-    image: work5_5,
-    title: "IMDB",
-    category: "imovie",
-    link: "https://imovie2.netlify.app/",
-  },
+  
 ];
 
 export const projectsNav = [
