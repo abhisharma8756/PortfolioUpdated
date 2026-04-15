@@ -23,14 +23,14 @@ export const projectsData = [
     image: work2,
     title: "Netflix-clone",
     category: "netflix-clone",
-    link: "https://netflix-clone-react1.web.app/",
+    link: "https://netflix-clone-epsq.onrender.com/",
   },
   {
     id: 3,
     image: work_2,
     title: "Netflix-clone",
     category: "netflix-clone",
-    link: "https://netflix-clone-react1.web.app/",
+    link: "https://netflix-clone-epsq.onrender.com/",
   },
   {
     id: 4,
