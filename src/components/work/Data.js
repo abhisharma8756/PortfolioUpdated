@@ -7,7 +7,7 @@ import work4 from "../../assets/work4.png";
 import work5_1 from "../../assets/work5_1.png";
 import work5_2 from "../../assets/work5_2.png";
 import work5_3 from "../../assets/work5_3.png";
-
+import work_10 from "../../assets/work_10.png";
 
 
 export const projectsData = [
@@ -74,7 +74,13 @@ export const projectsData = [
     category: "IMDB",
     link: "https://imovie2.netlify.app/",
   },
- 
+  {
+    id: 10,
+    image: work_10,
+    title: "Book Store",
+    category: "Book Store",
+    link: "https://book-store-56yg.onrender.com/",
+  },
 ];
 
 export const projectsNav = [
@@ -92,5 +98,8 @@ export const projectsNav = [
   },
   {
     name: "IMDB",
+  },
+  {
+    name: "Book Store",
   },
 ];
