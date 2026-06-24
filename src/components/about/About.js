@@ -17,8 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Fronted developer, I created web pages with UI / UX user interface.
-            I'm fresher, I don't have experience but created many projects.
+           Frontend Developer with 1+ year of experience building responsive, user-friendly, and visually appealing web applications. Skilled in creating modern UI/UX designs and transforming ideas into interactive digital experiences using HTML, CSS, JavaScript, React.js, and Tailwind CSS. Experienced in developing reusable components, integrating APIs, optimizing performance, and ensuring cross-browser compatibility. Passionate about writing clean, maintainable code and continuously learning new technologies to deliver high-quality web solutions that enhance user engagement and business growth.
           </p>
 
           <a download="" href={CV} className="button button--flex">
