@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-           Frontend Developer with 1+ year of experience building responsive, user-friendly, and visually appealing web applications. Skilled in creating modern UI/UX designs and transforming ideas into interactive digital experiences using HTML, CSS, JavaScript, React.js, and Tailwind CSS. Experienced in developing reusable components, integrating APIs, optimizing performance, and ensuring cross-browser compatibility. Passionate about writing clean, maintainable code and continuously learning new technologies to deliver high-quality web solutions that enhance user engagement and business growth.
+         Frontend Developer with 1+ year of experience creating responsive and user-friendly web applications using HTML, CSS, JavaScript, React.js, and Tailwind CSS. Skilled in building modern UI/UX, integrating APIs, optimizing performance, and delivering clean, maintainable code.
           </p>
 
           <a download="" href={CV} className="button button--flex">
